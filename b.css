@@ -1,0 +1,19 @@
+@import url("style/banner.css");
+@import url("style/texto.css");
+@import url("style/image.css");
+@import url("style/rodape.css");
+
+
+:root {
+    --branco: #FFFFFF;
+    --laranja: 	#DAA520;
+    --marrom:#A0522D;
+    --marrom2:#8B4513;
+    --vermelho: #800000;
+}
+
+body {
+    background: #EB9B00;
+    background-size: 50%;
+    margin: 0;
+}

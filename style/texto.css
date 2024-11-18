@@ -1,0 +1,31 @@
+.tópicos{
+    background: var(--azul-degrade);
+    text-align: center;
+    padding-bottom: 0.5vh;
+}
+
+.tópicos__lista{
+    display: grid;
+    text-align: left;
+    list-style: none;
+    margin: 0;
+    padding-top: 40px;
+}
+.tópicos__item{
+    /*padding: 1em;oq deu certo pra mim
+    margin: 1em;*/
+    margin: 2em ;
+}
+.tópicos__link{
+    color: var(--branco);
+    padding: 1em;
+    background-color: var(--vermelho);
+    width: 100%;
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: 400;
+    line-height:2em;
+}
+p{
+    margin: 2em;
+}

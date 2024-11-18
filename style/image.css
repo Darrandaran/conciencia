@@ -1,0 +1,11 @@
+.image{
+    margin: 8.5vh;
+    display: flex;
+    justify-content: center;
+
+}
+img{
+    height: 850px;
+    width: 640px;
+    border: 10px solid var(--marrom2);
+}
